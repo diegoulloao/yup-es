@@ -29,7 +29,7 @@ export const mixed = {
 };
 export const string = {
     length: '${path} debe ser exactamente ${length} caracteres',
-    min: '${path} debe ser de al menos ${min}caracteres',
+    min: '${path} debe ser de al menos ${min} caracteres',
     max: '${path} debe ser como máximo ${max} caracteres',
     matches: '${path} debe coincidir con el siguiente: "${regex}"',
     email: '${path} debe ser un correo electrónico válido',
