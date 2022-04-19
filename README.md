@@ -1,32 +1,28 @@
-# @yup-es
+# yup-es
 
-> es locale for yup
+ES-es locale for yup
 
 ## Installation
-```
-# yarn
-yarn add yup-es
-
-# npm
-npm i yup-es
+```bash
+yarn add yup-es | npm i yup-es
 ```
 
 ## Usage
 
 ### JS
-```
-const yup = require( 'yup' )
-const es = require( 'yup-es' )
+```javascript
+const yup = require('yup')
+const es = require('yup-es')
 
-yup.setLocale( es )
+yup.setLocale(es)
 ```
 
 ### ES6 / Typescript
-```
+```typescript
 import * as yup from 'yup'
 import es from 'yup-es'
 
-yup.setLocale( es )
+yup.setLocale(es)
 ```
 
 ---
