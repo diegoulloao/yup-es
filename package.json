@@ -2,7 +2,7 @@
   "name": "yup-es",
   "description": "es locale for yup",
   "author": "diegoulloao",
-  "version": "1.0.7-beta.2",
+  "version": "1.0.7",
   "main": "src/index.js",
   "types": "types/index.d.ts",
   "keywords": [
