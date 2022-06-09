@@ -26,4 +26,4 @@ yup.setLocale(es)
 ```
 
 ---
-**diegoulloao · 2020**
+**diegoulloao · 2022**
