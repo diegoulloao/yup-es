@@ -8,4 +8,4 @@
  */
 
 const es = require("./lib/es")
-module.export = es
+module.exports = es

@@ -65,7 +65,7 @@ const array = {
   max: "${path} campo debe tener menos de o igual a ${max} elementos"
 }
 
-module.export = {
+module.exports = {
   mixed,
   string,
   number,
