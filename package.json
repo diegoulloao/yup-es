@@ -2,7 +2,7 @@
   "name": "yup-es",
   "description": "es locale for yup",
   "author": "diegoulloao",
-  "version": "1.0.7",
+  "version": "1.0.8-beta.1",
   "main": "src/index.js",
   "types": "types/index.d.ts",
   "keywords": [
@@ -20,5 +20,8 @@
   "repository": {
     "url": "https://github.com/diegoulloao/yup-es"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "yup": "^0.32.11"
+  }
 }
