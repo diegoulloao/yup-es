@@ -1,6 +1,6 @@
 // Based on https://github.com/jquense/yup/blob/2973d0a/src/locale.js
 
-const printValue = require("yup/lib/util/printValue")
+const printValue = require("yup/lib/util/printValue").default
 
 const mixed = {
   default: "${path} no es válido.",
