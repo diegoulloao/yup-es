@@ -11,7 +11,7 @@ const mixed = {
     const isCast = originalValue != null && originalValue !== value
 
     let msg = (
-      `${path} debe ser un \`${type}\` Tipo, ` +
+      `${path} debe ser un tipo \`${type}\`, ` +
       `pero el valor final fue: \`${printValue(value, true)}\`` +
       (isCast ? ` (Reparto del valor \`${printValue(originalValue, true)}\`).` : ".")
     )
