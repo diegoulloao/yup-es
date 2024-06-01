@@ -3,6 +3,8 @@
 ES-es locale for yup
 
 ## Installation
+Choose your package manager:
+
 ```bash
 yarn add yup-es | npm i yup-es
 ```
