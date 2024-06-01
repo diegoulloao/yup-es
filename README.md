@@ -1,6 +1,6 @@
 # yup-es
 
-ES-es locale for yup
+es-ES locale for yup
 
 ## Installation
 Choose your package manager:
