@@ -21,7 +21,7 @@
     "url": "https://github.com/diegoulloao/yup-es"
   },
   "license": "MIT",
-  "dependencies": {
+  "peerDependencies": {
     "yup": "^1.2.0"
   }
 }
